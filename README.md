@@ -16,12 +16,21 @@ CS student | Exploring web dev, game dev & animation as I go | Always building s
 
 ### 🏆 Featured Project
 
-**[Healthcare Emergency Routing System](https://github.com/rafayhabib321/HERS)**
+**[Healthcare Emergency Routing System](https://github.com/rafayhabib321/HERS)** *(in progress)*
 A system built for my 3rd semester project that helps route patients to the nearest and most suitable hospital based on their condition.
 - 🗺️ Interactive Pakistan map for hospital locations
 - 📋 Patient intake forms
 - 🏥 Finds the best & nearest hospital based on patient condition
 - 🧭 Real-time routing to the emergency location
+
+---
+
+### 📂 Other Projects
+
+- **Hospital Management System** — Console-based system built in C++ (1st sem), no UI, pure logic and data handling
+- **Recipe Website** — Basic recipe browsing site using HTML, CSS & JS (1st sem)
+- **2D Action Game** — Java Swing game with sprites and GUI (2nd sem)
+- **HireTrack** *(in progress)* — Job application tracker with analytics, built with HTML, CSS & Node.js (4th sem)
 
 ---
 
