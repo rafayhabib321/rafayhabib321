@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Abdul Rafay 👋
 
-<!--
-**rafayhabib321/rafayhabib321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS student | Exploring web dev, game dev & animation as I go | Always building something
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+- 🎓 Currently a student, learning by doing
+- 🩺 Recently built a **Healthcare Emergency Routing System** — it maps the nearest hospital based on a patient's condition and shows the route to get there
+- 🎮 Exploring **game development** and **animation** as a hobby
+- 🔍 Actively looking for opportunities to learn, contribute, and grow as a developer
+- 💬 Open to collaborating on student projects or anything worth learning from
+
+---
+
+### 🏆 Featured Project
+
+**[Healthcare Emergency Routing System](https://github.com/rafayhabib321/HERS)**
+A system built for my 3rd semester project that helps route patients to the nearest and most suitable hospital based on their condition.
+- 🗺️ Interactive Pakistan map for hospital locations
+- 📋 Patient intake forms
+- 🏥 Finds the best & nearest hospital based on patient condition
+- 🧭 Real-time routing to the emergency location
+
+---
+
+### 🛠️ Currently Exploring
+
+`Game Development` · `Animation` · `Web Development`
+
+---
+
+### 📫 Reach Me
+
+- GitHub: [@rafayhabib321](https://github.com/rafayhabib321)
+- LinkedIn: [Abdul Rafay](https://www.linkedin.com/in/abdul-rafy-dev/)
+
+---
+
+*Still learning, still building 🌱*
