@@ -16,7 +16,7 @@ CS student | Exploring web dev, game dev & animation as I go | Always building s
 
 ### 🏆 Featured Project
 
-**[Healthcare Emergency Routing System](https://github.com/rafayhabib321/HERS)** *(in progress)*
+**[Healthcare Emergency Routing System](https://github.com/rafayhabib321/HERS)** *
 A system built for my 3rd semester project that helps route patients to the nearest and most suitable hospital based on their condition.
 - 🗺️ Interactive Pakistan map for hospital locations
 - 📋 Patient intake forms
